@@ -3,10 +3,10 @@
 
 
 skills lvl (max lvl 1000):
-txt lvl 619
-html lvl 59
-css lvl 24
-batch lvl 9
-python lvl 6
-C++ lvl 2
-others lvl 0
+<txt lvl 619>
+<html lvl 59>
+<css lvl 24>
+<batch lvl 9>
+<python lvl 6>
+<C++ lvl 2>
+<others lvl 0>
